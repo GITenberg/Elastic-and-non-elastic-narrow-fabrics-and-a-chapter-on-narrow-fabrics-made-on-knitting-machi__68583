@@ -1,0 +1,40 @@
+_repo: Elastic-and-non-elastic-narrow-fabrics-and-a-chapter-on-narrow-fabrics-made-on-knitting-machi__68583
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Davis, William, M.A.
+    gutenberg_agent_id: '49163'
+    url: http://www.gutenberg.org/2009/agents/49163
+creator:
+  author:
+    agent_name: Brown, Samuel
+    gutenberg_agent_id: '54850'
+    url: http://www.gutenberg.org/2009/agents/54850
+description: ''
+gutenberg_issued: '2022-07-21'
+identifiers:
+  gutenberg: '68583'
+  lccn: '24006173'
+language: en
+pgterms:marc904: https://archive.org/details/elasticnonelasti00brow/page/n1/mode/2up
+pgterms:marc905: 20200810213923brown
+pgterms:marc906: '1923'
+pgterms:marc907: US
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: United States :Bragdon, Lord & Nagle Co.,1923.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Textile fabrics'
+- !lcsh 'Rubber industry and trade'
+- !lcsh 'Weaving'
+- !lcsh 'Elastic fabrics'
+- !lcsh 'Looms'
+- !lcc 'TS'
+- GITenberg
+title: "Elastic and non-elastic narrow fabrics\r\nand a chapter on narrow fabrics\
+  \ made on knitting machines"
+url: http://www.gutenberg.org/ebooks/68583
