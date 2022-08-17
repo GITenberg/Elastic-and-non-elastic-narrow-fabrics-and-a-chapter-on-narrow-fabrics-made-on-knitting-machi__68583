@@ -5,12 +5,17 @@ contributor:
     agent_name: Davis, William, M.A.
     gutenberg_agent_id: '49163'
     url: http://www.gutenberg.org/2009/agents/49163
+covers:
+- cover_type: archival
+  image_path: 68583-h/images/cover.jpg
 creator:
   author:
     agent_name: Brown, Samuel
     gutenberg_agent_id: '54850'
     url: http://www.gutenberg.org/2009/agents/54850
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68583#Elastic-and-non-elastic-narrow-fabrics-and-a-chapter-on-narrow-fabrics-made-on-knitting-machi_
 gutenberg_issued: '2022-07-21'
 identifiers:
   gutenberg: '68583'
